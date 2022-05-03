@@ -1,34 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.ec736191.css",
-    "main.js": "/static/js/main.e66d321c.js",
+    "main.css": "/static/css/main.53eb5910.css",
+    "main.js": "/static/js/main.f2e1cbd0.js",
     "static/js/787.d29b1366.chunk.js": "/static/js/787.d29b1366.chunk.js",
     "static/media/apc73-1.png": "/static/media/apc73-1.378c62452ff05cdfe8eb.png",
+    "static/media/stripe-full.svg": "/static/media/stripe-full.fff119b293b6dc2c54c4d938468f874c.svg",
     "static/media/autogami.png": "/static/media/autogami.b47143ae0becbe1ae491.png",
     "static/media/cornell-logo.svg": "/static/media/cornell-logo.cbefa1c815fa28cee5df8cd0315ca870.svg",
-    "static/media/publications-apcha.svg": "/static/media/publications-apcha.72611d45b6fa57333341f69c0c9a5266.svg",
-    "static/media/projects-apcha.svg": "/static/media/projects-apcha.e3a4a2ba45d7620fe11c39fe8e72607f.svg",
     "static/media/petr4-project.png": "/static/media/petr4-project.dca67bb0df2848715c07.png",
-    "static/media/work-apcha.svg": "/static/media/work-apcha.5d1d3d8ea21b58fef62494da26b06476.svg",
-    "static/media/contact-apcha.svg": "/static/media/contact-apcha.fbb5646f9a978a7caaaf8eeac6f2de44.svg",
     "static/media/gen-yojson.png": "/static/media/gen-yojson.70464c10cb445ff6a957.png",
-    "static/media/cuair-logo-1.svg": "/static/media/cuair-logo-1.e35bc0f5545dbee79a88766db24ec8bc.svg",
-    "static/media/apcha-all.svg": "/static/media/apcha-all.e03d2e2b4d543f7faf735052c305fc7c.svg",
-    "static/media/petr4-logo-1.svg": "/static/media/petr4-logo-1.049d64473a531f67cd481689b5e05211.svg",
-    "static/media/stripe-emblem.svg": "/static/media/stripe-emblem.19aa1c3cbe3d112c811f5214b26fc6ec.svg",
+    "static/media/northrop-full.svg": "/static/media/northrop-full.b2881dd0c53efb47aaa267d5aaeb33ab.svg",
+    "static/media/cuair-full.svg": "/static/media/cuair-full.47a78085797c02dc128ce1beb6da8bb2.svg",
+    "static/media/petr4-logo-1.svg": "/static/media/petr4-logo-1.8d21ae59d2cdf0906df7a0f4d7198632.svg",
     "static/media/email.svg": "/static/media/email.42506ba7ae7ea4b0056a17f9d593595f.svg",
-    "static/media/ng-logo-1.svg": "/static/media/ng-logo-1.1bcc90343066207dbd9319e44819f261.svg",
+    "static/media/github-original-1-hover.svg": "/static/media/github-original-1-hover.2b52d2cceb6013e90b89b6734a44bd45.svg",
     "static/media/github-original-1.svg": "/static/media/github-original-1.8ce3961af0166dd113cfb05da1308c9e.svg",
+    "static/media/linkedin-original-1-hover.svg": "/static/media/linkedin-original-1-hover.17acbb0409dd26d0c6d4591e71af39f8.svg",
     "static/media/linkedin-original-1.svg": "/static/media/linkedin-original-1.c3ecf46a322504f5f5b873fee0109e67.svg",
     "index.html": "/index.html",
+    "static/media/line-hover-navbar-section.svg": "/static/media/line-hover-navbar-section.22b67d0a3b380ca9cb8e560a3f17a224.svg",
     "static/media/line-10.svg": "/static/media/line-10.2ee86bd54129acfd3c747684e46e24a0.svg",
     "static/media/line-6.svg": "/static/media/line-6.630f846c0c458fd55182ed9dc7104888.svg",
-    "main.ec736191.css.map": "/static/css/main.ec736191.css.map",
-    "main.e66d321c.js.map": "/static/js/main.e66d321c.js.map",
+    "main.53eb5910.css.map": "/static/css/main.53eb5910.css.map",
+    "main.f2e1cbd0.js.map": "/static/js/main.f2e1cbd0.js.map",
     "787.d29b1366.chunk.js.map": "/static/js/787.d29b1366.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec736191.css",
-    "static/js/main.e66d321c.js"
+    "static/css/main.53eb5910.css",
+    "static/js/main.f2e1cbd0.js"
   ]
 }
